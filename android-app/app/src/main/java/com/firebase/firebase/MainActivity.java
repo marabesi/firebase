@@ -45,8 +45,6 @@ public class MainActivity extends AppCompatActivity {
         final ArrayAdapter adapter = new ArrayAdapter<People>(this, android.R.layout.simple_list_item_1, listAdapter);
         list.setAdapter(adapter);
 
-        adapter.
-
         Firebase.setAndroidContext(this);
         firebaseRef = new Firebase(Url.FIREBASE);
 

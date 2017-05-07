@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_6124f1c75d5b3f257f570d0e39f8178ef00a97fc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.3.1_3434ddac7e80df8876a9d6de08a43aeea2a8c23b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_607ee59e14264a6bb72fbb4f53ab3bf63903da3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_07d7d575fc712c0ef3f181ce00ac61b7cb6b99dc/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.0_763d1e27a9add8c16a3ac8d0b0b66abad5790c2f/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_923776467600d4f8950aa52bd0c87730ca7c4ac2/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.0_19048ee6e00f52eef8a735f6541f737fa9e1200d/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_900411452f80ab5eaff4abfbbc3199784979f8e5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_4d044493e59f17c2884854b4e752af67fa1c7cc3/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_59ccbf8b973ddd7837a90bda81af9b37a8a8e40e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_9f9f18d3ca4eba8193464feae5f47ff61d34ac2f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.11_d7b1666f151a6609c1507810a3e3e30d71658b38/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_c55ec6ff09c22ccfe999cd3e35ad4ec985d21b66/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.0_845c809a161ec7c17cfad7aebdb3bc0ba20e077e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_d11823b70269403f29cdc95a9def291865eaf295/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_6c7ea37946d5269173c0c4a083bdff57e844bf0e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_f717ee3c8cb4f9542baae6f2283c987312ac35b4/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_8e6bc911074ec4936724a00e87e34d8ee21cd51e/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_c85f61e702458cad6ff3e5aea1034acfcc86a2b5/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c31315913c96a259de488c3bb8c45fd3c87a101">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4223aa79408dd5599267bcc1ac1d3836a56dff6d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marabesi/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.3.1_8ec451aab8d5b09f49257c079c06570a60e3dcf1/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.0_f48460a96006dcd096a7cd4045781441e0bde056/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.0_f4f440a06b6637241c7c78abbf47f50867c42671/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.0_6eddcdc8022d6cc8e01e72a2fa25e9c6b3482dbc/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f7b61aa9ee73042d0986297a68885d645d139b1b">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_88284f3c99c6ad484de440d155c40eae428dbe1c/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.0_1351edfadd0c0e38578d279a5e15255f90b201e0/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.0_36d4feffc2e6a2b53216f97fb5cea9165a82a7fb/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Volumes/Seagate/Projects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.0_9400b73aa8cbe5cba20e7fda555eab2449fe1d70/classes.dex" />
+    </item>
+
+</items>
