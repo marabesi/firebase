@@ -32,7 +32,7 @@ public class RegisterActivity extends AppCompatActivity {
 
     public void onNewUser(View view) {
         String inputEmail = email.getText().toString();
-        String inputPassword = password.getText().toString();;
+        String inputPassword = password.getText().toString();
 
         mAuth.createUserWithEmailAndPassword(inputEmail, inputPassword)
             .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
