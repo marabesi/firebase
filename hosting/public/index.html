@@ -1,10 +1,42 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+ 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
                 
+
+        <script src="https://www.gstatic.com/firebasejs/3.5.0/firebase.js"></script>
+        <script>
+            $(document).ready(function() {
+                var config = {
+                    apiKey: "###",
+                    authDomain: "###.firebaseapp.com",
+                    databaseURL: "https://###.firebaseio.com"
+                };
+
+                firebase.initializeApp(config);
+
+                var database = firebase.database();
+
+                var commentsRef = firebase.database().ref('people');
+
+                commentsRef.on('child_added', function(data) {
+                    $('.table-body').append(
+                        '<tr><td>' + data.val().name + '</td><td>' + data.val().email + '</td></tr>'
+                    );
+                });
+                
+                $('.save-contact').on('click', function() {
+                    firebase.database().ref('people').push({
+                        name: $('#name').val(),
+                        email: $('#email').val()
+                    });
+                });
+            });
+        </script>
         <title>Firebase web app</title>
     </head>
     <body>
@@ -12,8 +44,8 @@
             <form class="col s12">
                 <div class="row">
                     <div class="input-field col s6">
-                        <input id="last_name" type="text" class="validate">
-                        <label for="last_name">Last Name</label>
+                        <input id="name" type="text" class="validate">
+                        <label for="last_name">Name</label>
                     </div>
                 </div>
                 <div class="row">
@@ -23,9 +55,22 @@
                     </div>
                 </div>
                 <div class="row">
-                    <a class="waves-effect waves-light btn">Save</a>
+                    <a class="waves-effect waves-light btn save-contact">Save</a>
                 </div>
             </form>
+        </div>
+        <div class="row">
+            <table class="bordered col s12">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+
+                <tbody class="table-body">
+                </tbody>
+            </table>
         </div>
     </body>
 </html>
